@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Concert Diary App</string>
+    <string name="title_activity_personal_entries">PersonalEntries</string>
+</resources>
